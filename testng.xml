@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SuiteE2E">
+  <test name="E2ETest">
+      <classes>
+      <class name="apptusProject.TestCases.E2ETest"/>
+      </classes>
+  </test> 
+</suite>
